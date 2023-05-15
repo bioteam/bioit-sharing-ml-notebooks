@@ -1,4 +1,4 @@
-# bioit-sharing-ml-botebooks
+# bioit-sharing-ml-notebooks
 Sharing notebooks for Bio-IT World Demo
 
 You can interact with the notebooks by following these links:
